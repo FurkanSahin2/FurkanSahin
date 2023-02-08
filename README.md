@@ -19,31 +19,13 @@
 <code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
 
 
-## 📚 My Medium Account
-[@utkuglsvn ](https://medium.com/@utkuglsvn)
+## 📚 My Social Accounts
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 
 ## 📫 How to Reach Me
 
 
 [![Linkedin Badge](https://img.shields.io/badge/furkan-şahin1-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-sahin1)
-
-## ⚡ Fun Fact
-
-I love startup culture :)
-
-Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
