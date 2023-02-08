@@ -29,7 +29,5 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/furkan-şahin1-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-sahin1)
-
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
-[[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/FurkanSahin2?tab=followers)](https://img.shields.io/github/followers/furkansahin2?style=social)
+https://img.shields.io/github/followers/furkansahin2?style=social
 
