@@ -31,3 +31,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/furkan-şahin1-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-sahin1)
 https://img.shields.io/github/followers/furkansahin2?style=social
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
