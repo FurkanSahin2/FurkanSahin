@@ -35,3 +35,5 @@ https://img.shields.io/github/followers/furkansahin2?style=social
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact)](https://github.com/FurkanSahin2)
+
+https://img.shields.io/github/stars/FurkanSahin2?style=social
