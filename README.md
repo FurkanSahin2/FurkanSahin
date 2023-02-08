@@ -6,7 +6,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahin2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
@@ -32,4 +32,4 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/FurkanSahin2?tab=followers)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahin2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
