@@ -28,7 +28,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aliince_002/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-757575?style=flat-quare&labelColor=75755&logo=Facebook&logoColor=white&link=link)](https://www.facebook.com/sahinfurkan02/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Furkan%20%C5%9Eahin&url=https%3A%2F%2Ftwitter.com%2Faliince_02)](https://twitter.com/aliince_02)
-[![Linkedin Badge](https://img.shields.io/linkedin/url?label=Furkan%20%C5%9Eahin&url=https%3A%2F%2Ftwitter.com%2Faliince_02)](https://www.linkedin.com/in/furkan-%C5%9Fahin1/)
   
 
   
