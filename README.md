@@ -47,7 +47,7 @@
   
 <br>
 
-## 🛠️ Projects
+## 🛠️ My Projects
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro)](https://github.com/FurkanSahin2/Kamp_Intro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject)](https://github.com/FurkanSahin2/FinalProject)
