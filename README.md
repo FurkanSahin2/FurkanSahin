@@ -5,8 +5,8 @@
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">      
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact")(https://github.com/FurkanSahin2)/>  
-  <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=synthwave")(https://github.com/FurkanSahin2)
+  <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=synthwave")(https://github.com/FurkanSahin2)/>  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact")(https://github.com/FurkanSahin2)
 </p>
 
 
