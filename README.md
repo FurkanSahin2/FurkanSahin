@@ -4,19 +4,18 @@
 
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=radical")
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact")](https://github.com/FurkanSahin2)/>  
+<p float="center">      
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact")(https://github.com/FurkanSahin2)/>  
+  <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=synthwave")(https://github.com/FurkanSahin2)
 </p>
 
 
 ## 📚 Learning & Interested
 
-<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="75" src="https://user-images.githubusercontent.com/68972718/217532801-0c75594a-96d3-441d-b780-eb5cde2823bb.png"></code>
+<code><img height="75" src="https://user-images.githubusercontent.com/68972718/217533271-b646b141-ee6c-43f3-9f93-1011c670e79d.png"></code>
 
 
 ## 📚 My Social Accounts
@@ -34,6 +33,7 @@ https://img.shields.io/github/followers/furkansahin2?style=social
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
 
-
-
+## 🛠️ Projects
+  
+FinalProject = https://img.shields.io/github/languages/top/FurkanSahin2/FinalProject?style=for-the-badge
 
