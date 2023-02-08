@@ -1,6 +1,12 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFurkanSahin2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true"/></a>                                         
-### Heyy! I'm Furkan 👋
+![](https://komarev.com/ghpvc/?username=FurkanSahin2)  
+<br>
 
+<h1 align="center"> Heyy! I'm Furkan 👋</h1> 
+
+<h3 align="center">Back-end C# Developer</h3> <br> <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FurkanSahin2" alt="Furkan Şahin" /></a> </p>
+<br>
 
 ## 📌 GitHub Stats And Top Languages
 
@@ -8,6 +14,8 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=synthwave")(https://github.com/FurkanSahin2)/>  
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact")(https://github.com/FurkanSahin2)
 </p>
+  
+<br> <br>
 
 
   
@@ -19,7 +27,7 @@
 <code><img height="75" src="https://user-images.githubusercontent.com/68972718/217533271-b646b141-ee6c-43f3-9f93-1011c670e79d.png"></code>
 <code><img height="75" src="https://user-images.githubusercontent.com/68972718/217535252-6f2a4c17-1a58-4825-bb6c-797c907e5850.png"></code>
 
-
+<br>
   
 
 ## 📚 My Social Accounts
@@ -29,13 +37,16 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-757575?style=flat-quare&labelColor=75755&logo=Facebook&logoColor=white&link=link)](https://www.facebook.com/sahinfurkan02/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Furkan%20%C5%9Eahin&url=https%3A%2F%2Ftwitter.com%2Faliince_02)](https://twitter.com/aliince_02)
   
-
+<br>
   
 ## 📫 How to Reach Me
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/w7T7DSwsCx)
   
 [![Badge](https://img.shields.io/badge/-------------------------000?)](https://linktr.ee/furkansahin/)
+  
+<br>
+
 ## 🛠️ Projects
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro)](https://github.com/FurkanSahin2/Kamp_Intro)
