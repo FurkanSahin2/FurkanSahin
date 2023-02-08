@@ -35,6 +35,7 @@
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/w7T7DSwsCx)
   
+[![Badge](https://img.shields.io/badge/-------------------------000?)](https://linktr.ee/furkansahin/)
 ## 🛠️ Projects
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro)](https://github.com/FurkanSahin2/Kamp_Intro)
