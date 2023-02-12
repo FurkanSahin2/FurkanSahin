@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=FurkanSahin2)  
 <br>
+[![Github](https://img.shields.io/github/followers/FurkanSahin2?label=Follow&style=social)](https://github.com/FurkanSahin2)
+
 
 <h1 align="center"> Heyy! I'm Furkan 👋</h1> 
 
@@ -12,7 +14,8 @@
 
 <p float="center">      
   <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=synthwave")(https://github.com/FurkanSahin2)/>  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&layout=compact")(https://github.com/FurkanSahin2)
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&theme=tokyonight") (https://github.com/FurkanSahin2)/>
+
 </p>
   
 <br> <br>
@@ -28,7 +31,6 @@
 <code><img height="75" src="https://user-images.githubusercontent.com/68972718/217535252-6f2a4c17-1a58-4825-bb6c-797c907e5850.png"></code>
 
 <br>
-  
 
 ## 📚 My Social Accounts
 
