@@ -31,21 +31,21 @@
 <code><img height="75" src="https://user-images.githubusercontent.com/68972718/217535252-6f2a4c17-1a58-4825-bb6c-797c907e5850.png"></code>
 
 <br>
-
+<!--
 ## 📚 My Social Accounts
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/FurkanSahin2/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aliince_002/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-757575?style=flat-quare&labelColor=75755&logo=Facebook&logoColor=white&link=link)](https://www.facebook.com/sahinfurkan02/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Furkan%20%C5%9Eahin&url=https%3A%2F%2Ftwitter.com%2Faliince_02)](https://twitter.com/aliince_02)
-  
+ 
 <br>
-  
+-->  
+
+
 ## 📫 How to Reach Me
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/w7T7DSwsCx)
-  
-[![Badge](https://img.shields.io/badge/-------------------------000?)](https://linktr.ee/furkansahin/)
   
 <br>
 
