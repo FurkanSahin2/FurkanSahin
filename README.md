@@ -5,7 +5,7 @@
 
 <h1 align="center"> Heyy! I'm Furkan 👋</h1> 
 
-<h3 align="center">Back-end C# Developer</h3> <br> <br>
+<h3 align="center">Back-end Developer</h3> <br> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FurkanSahin2" alt="Furkan Şahin" /></a> </p>
 <br>
