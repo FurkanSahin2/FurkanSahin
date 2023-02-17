@@ -46,7 +46,7 @@
 ## 📫 How to Reach Me
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/w7T7DSwsCx)
-  
+- Email: muhammedfurkan_sahin@hotmail.com
 <br>
 
 ## 🛠️ My Projects
