@@ -8,22 +8,16 @@
 <h3 align="center">Back-end Developer</h3> <br> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FurkanSahin2" alt="Furkan Şahin" /></a> </p>
-<br>
 
-## 📌 GitHub Stats And Top Languages
-
-<p float="center">      
-  <img  src="https://github-readme-stats.vercel.app/api?username=FurkanSahin2&show_icons=true&theme=highcontrast")(https://github.com/FurkanSahin2)/>  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSahin2&theme=tokyonight") (https://github.com/FurkanSahin2)/>
-
-</p>
-  
 <br> <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=furkansahin2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=furkansahin2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahin2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<br> <br>
   
 ## 📚 Learning & Interested
   
