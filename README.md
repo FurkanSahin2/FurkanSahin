@@ -56,4 +56,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Web_Development_Training&theme=dark)](https://github.com/FurkanSahin2/Web_Gelistirme_Egitimi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Java_Bootcamp&theme=dark)](https://github.com/FurkanSahin2/Java_Bootcamp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=C_Lessons&theme=dark)](https://github.com/FurkanSahin2/C_Lessons)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=dark)](https://github.com/FurkanSahin2/ConsoleAppWork)
