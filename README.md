@@ -54,11 +54,11 @@
 
 ## 🛠️ My Projects
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro&theme=cobalt)](https://github.com/FurkanSahin2/Kamp_Intro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject&theme=cobalt)](https://github.com/FurkanSahin2/FinalProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject&theme=cobalt)](https://github.com/FurkanSahin2/CarRentalProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Web_Development_Training&theme=cobalt)](https://github.com/FurkanSahin2/Web_Gelistirme_Egitimi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Java_Bootcamp&theme=cobalt)](https://github.com/FurkanSahin2/Java_Bootcamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=C_Lessons&theme=cobalt)](https://github.com/FurkanSahin2/C_Lessons)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=cobalt)](https://github.com/FurkanSahin2/ConsoleAppWork)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro&theme=highcontrast)](https://github.com/FurkanSahin2/Kamp_Intro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject&theme=highcontrast)](https://github.com/FurkanSahin2/FinalProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject&theme=highcontrast)](https://github.com/FurkanSahin2/CarRentalProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Web_Development_Training&theme=highcontrast)](https://github.com/FurkanSahin2/Web_Gelistirme_Egitimi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Java_Bootcamp&theme=highcontrast)](https://github.com/FurkanSahin2/Java_Bootcamp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=C_Lessons&theme=highcontrast)](https://github.com/FurkanSahin2/C_Lessons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=highcontrast)](https://github.com/FurkanSahin2/ConsoleAppWork)
 
