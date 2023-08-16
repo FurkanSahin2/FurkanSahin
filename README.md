@@ -12,9 +12,9 @@
 <br> <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=furkansahin2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furkansahin2&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahin2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=furkansahin2&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=furkansahin2&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahin2&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <br> <br>
