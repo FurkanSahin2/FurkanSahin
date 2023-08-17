@@ -13,7 +13,7 @@
  _<p> ⚡ I love to learn new technologies and tools from the internet. </p>_
  _<p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>_
 _<p> ⏱️ I spend most of my time tinkering with software technologies, reading articles and watching videos about history, theology, philosophy and other social sciences that interest me. </p>_
- _<p> 📚 I try to read book every day && I watch interesting videos when I'm free. </p>_
+ _<p> 📚 I try to read book every day <code>  &&  </code> I watch interesting videos when I'm free. </p>_
 
 ---
 <br> <br>
