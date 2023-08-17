@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=FurkanSahin2)  
+![](https://komarev.com/ghpvc/?username=FurkanSahin)  
 <br>
-[![Github](https://img.shields.io/github/followers/FurkanSahin2?label=Follow&style=social)](https://github.com/FurkanSahin2)
+
 
 
 <h1 align="center"> Heyy! I'm Furkan 👋</h1> 
