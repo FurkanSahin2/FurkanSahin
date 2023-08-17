@@ -7,17 +7,27 @@
 
 <h3 align="center">Software Developer</h3> <br> <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FurkanSahin2" alt="Furkan Şahin" /></a> </p>
+---
 
+ _<p> 🎓 Graduated from Computer Programming with a good average.</p>_
+ _<p> ⚡ Loves to learn new technologies and tools from the internet. </p>_
+ _<p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>_
+_<p> ⏱️ I spend most of my time tinkering with software technologies, reading articles and watching videos about history, theology, philosophy and other social sciences that interest me. </p>_
+ _<p> 📚 I try to read book every day && I watch interesting videos when I'm free. </p>_
+
+---
 <br> <br>
+
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=furkansahin2&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=furkansahin2&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=furkansahin2&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahin2&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkansahin2&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <br> <br>
+
   
 ## 📚 Learning & Interested
   
@@ -38,9 +48,9 @@
 ## 📚 My Social Accounts
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/FurkanSahin2/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aliince_002/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-757575?style=flat-quare&labelColor=75755&logo=Facebook&logoColor=white&link=link)](https://www.facebook.com/sahinfurkan02/)
-[![Twitter Badge](https://img.shields.io/twitter/url?label=Furkan%20%C5%9Eahin&url=https%3A%2F%2Ftwitter.com%2Faliince_02)](https://twitter.com/aliince_02)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-757575?style=flat-quare&labelColor=75755&logo=Facebook&logoColor=dark&link=link)](https://www.facebook.com/)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=Furkan%20%C5%9Eahin&url=)](https://twitter.com/)
  
 <br>
 -->  
@@ -48,17 +58,22 @@
 
 ## 📫 How to Reach Me
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/w7T7DSwsCx)
-- Email: muhammedfurkan_sahin@hotmail.com
-<br>
+<a href="https://www.linkedin.com/in/furkan-%C5%9Fahin1/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a> 
+<br> <br>
 
+<code> 📧 Email: muhammedfurkan_sahin@hotmail.com </code>
+<br>
+<br>
+<br>
 ## 🛠️ My Projects
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro&theme=highcontrast)](https://github.com/FurkanSahin2/Kamp_Intro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject&theme=highcontrast)](https://github.com/FurkanSahin2/FinalProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject&theme=highcontrast)](https://github.com/FurkanSahin2/CarRentalProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Web_Development_Training&theme=highcontrast)](https://github.com/FurkanSahin2/Web_Gelistirme_Egitimi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=Java_Bootcamp&theme=highcontrast)](https://github.com/FurkanSahin2/Java_Bootcamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=C_Lessons&theme=highcontrast)](https://github.com/FurkanSahin2/C_Lessons)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=highcontrast)](https://github.com/FurkanSahin2/ConsoleAppWork)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro&theme=highcontrast)](https://github.com/FurkanSahin2/Kamp_Intro)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject&theme=highcontrast)](https://github.com/FurkanSahin2/FinalProject)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject&theme=highcontrast)](https://github.com/FurkanSahin2/CarRentalProject)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Web_Development_Training&theme=highcontrast)](https://github.com/FurkanSahin2/Web_Gelistirme_Egitimi)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Java_Bootcamp&theme=highcontrast)](https://github.com/FurkanSahin2/Java_Bootcamp)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=C_Lessons&theme=highcontrast)](https://github.com/FurkanSahin2/C_Lessons)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=highcontrast)](https://github.com/FurkanSahin2/ConsoleAppWork)
 
