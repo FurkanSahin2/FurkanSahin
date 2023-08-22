@@ -33,6 +33,7 @@ _<p> ⏱️ I spend most of my time tinkering with software technologies, readin
   
 <code><img height="75" src="https://user-images.githubusercontent.com/68972718/217532801-0c75594a-96d3-441d-b780-eb5cde2823bb.png"></code> 
 <code><img height="75" src="https://github.com/FurkanSahin2/FurkanSahin2/assets/68972718/a331bf55-63bd-4654-ae65-61386fd95de7"></code>
+<code><img height="75" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
 
 
 
