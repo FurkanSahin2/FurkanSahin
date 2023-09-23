@@ -45,6 +45,7 @@ _<p> ⏱️ I spend most of my time tinkering with software technologies, readin
 
 <code><img height="75" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="75" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
+<code><img height="75" src="https://seeklogo.com/images/A/angular-logo-6EB930C68B-seeklogo.com.png"></code>
 
 
 <br>
@@ -73,11 +74,13 @@ _<p> ⏱️ I spend most of my time tinkering with software technologies, readin
 <br>
 ## 🛠️ My Projects
   
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro&theme=highcontrast)](https://github.com/FurkanSahin2/Kamp_Intro)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject&theme=highcontrast)](https://github.com/FurkanSahin2/FinalProject)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=FinalProject-Frontend&theme=highcontrast)](https://github.com/FurkanSahin2/ConsoleAppWork)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject&theme=highcontrast)](https://github.com/FurkanSahin2/CarRentalProject)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Web_Development_Training&theme=highcontrast)](https://github.com/FurkanSahin2/Web_Gelistirme_Egitimi)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Java_Bootcamp&theme=highcontrast)](https://github.com/FurkanSahin2/Java_Bootcamp)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=C_Lessons&theme=highcontrast)](https://github.com/FurkanSahin2/C_Lessons)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=highcontrast)](https://github.com/FurkanSahin2/ConsoleAppWork)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=Kamp_Intro&theme=highcontrast)](https://github.com/FurkanSahin2/Kamp_Intro)
+
 
