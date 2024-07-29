@@ -79,6 +79,7 @@ _<p> ⏱️ I spend most of my time tinkering with software technologies, readin
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject&theme=highcontrast)](https://github.com/FurkanSahin2/CarRentalProject)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=CarRentalProject-Frontend&theme=highcontrast)](https://github.com/FurkanSahin2/CarRentalProject-Frontend)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=ConsoleAppWork&theme=highcontrast)](https://github.com/FurkanSahin2/ConsoleAppWork)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FurkanSahin2&repo=MovieApplication&theme=highcontrast)](https://github.com/FurkanSahin2/MovieApplication)
 
 <br>
 <br>
