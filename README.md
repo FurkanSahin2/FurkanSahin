@@ -63,7 +63,7 @@ _<p> ⏱️ I spend most of my time tinkering with software technologies, readin
 
 ## 📫 How to Reach Me
 
-<a href="https://www.linkedin.com/in/furkan-%C5%9Fahin1/">
+<a href="https://www.linkedin.com/in/furkan-sahin02">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a> 
 <br> <br>
